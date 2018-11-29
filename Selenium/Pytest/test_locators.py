@@ -22,6 +22,7 @@ class Locators():
     
     
     #Appointment page objects
+    multiple_appointment = "EndDate"
     date = "//*[@id='txtStartDate']"
     location ="//*[@id='ddlLocation']"
     visitor_name="//*[@id='txtVisitor']"

@@ -21,8 +21,7 @@ class Flip(unittest.TestCase):
         login = Login(driver)
         login.login()
         apt = homepage(driver)
-        apt.dashboard_appointments()#added comment  for storing in git
-#=====================================
+        apt.dashboard_appointments()#remove
         
        
         
